@@ -3,16 +3,21 @@ h1 {
 }
 
 .eddy {
-  max-width: 100%;
-  height: auto;
-  background: url("images/edd1.jpeg") no-repeat;
-  display: inline-block;
+        width: 130px;
+        height: 195px;
+        position: relative;
+        display: inline-block;
+    }
+.eddy .img-top {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 99;
+    }
 
-}
-
-.eddy:hover {
-  background: url("images/edd2.jpeg") no-repeat;
-}
-
+.eddy:hover .img-top {
+        display: inline;
+    }
 
  
