@@ -2,7 +2,7 @@ h1 {
   color: Black;
 }
 
-eddy {
+.eddy {
   max-width: 100%;
   height: auto;
   background: url("images/card-back.jpg") no-repeat;
@@ -10,7 +10,7 @@ eddy {
 
 }
 
-eddy:hover {
+.eddy:hover {
   background: url("images/card-front.jpg") no-repeat;
 }
 
