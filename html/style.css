@@ -5,10 +5,8 @@ h1 {
 
 
 .eddy-box {
-/*         max-width: 10%; */
-/*         height: auto; */
-/*         position: relative;
-        display: inline-block; */
+        position: relative;
+        display: inline-block;
     }
 
 .eddy-img {
@@ -16,7 +14,9 @@ h1 {
       height: auto;
 }
 
-.eddy .img-top {
+.eddy-box .eddy-img-top {
+        max-width: 10%;
+        height: auto;
         display: none;
 /*         position: absolute;
         top: 0;
@@ -24,8 +24,8 @@ h1 {
         z-index: 99; */
     }
 
-/* .eddy:hover .img-top {
+.eddy-box:hover .eddy-img-top {
         display: inline;
     }
- */
+
  
