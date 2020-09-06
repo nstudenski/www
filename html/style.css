@@ -10,7 +10,7 @@ h1 {
 .eddy {
         width: 10px;
         height: 10px;
-        position: relative;
+        position: static;
         display: inline-block;
     }
 .eddy .img-top {
