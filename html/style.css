@@ -3,8 +3,8 @@ h1 {
 }
 
 .eddy {
-        width: 130px;
-        height: 195px;
+        max-width: 100%;
+        height: auto;
         position: relative;
         display: inline-block;
     }
