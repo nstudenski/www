@@ -2,7 +2,17 @@ h1 {
   color: Black;
 }
 
-img {
+eddy {
   max-width: 100%;
   height: auto;
+  background: url("images/card-back.jpg") no-repeat;
+  display: inline-block;
+
 }
+
+eddy:hover {
+  background: url("images/card-front.jpg") no-repeat;
+}
+
+
+ 
