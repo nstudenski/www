@@ -2,9 +2,12 @@ h1 {
   color: Black;
 }
 
+img {
+      max-width: 10%;
+      height: auto;
+}
+
 .eddy {
-        max-width: 10%;
-        height: auto;
         position: relative;
         display: inline-block;
     }
