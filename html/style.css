@@ -18,10 +18,10 @@ h1 {
         max-width: 10%;
         height: auto;
         display: none;
-/*         position: absolute;
+        position: absolute;
         top: 0;
         left: 0;
-        z-index: 99; */
+/*         z-index: 99; */
     }
 
 .eddy-box:hover .eddy-img-top {
