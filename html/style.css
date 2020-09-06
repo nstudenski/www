@@ -15,14 +15,11 @@ h1 {
       transform: rotate(90deg);
 }
 
-.eddy-box .eddy-img-top {
-        max-width: 10%;
-        height: auto;
+.eddy-box .img-top {
         display: none;
         position: absolute;
         top: 0;
         left: 0;
-        transform: rotate(90deg);
 /*         z-index: 99; */
     }
 
