@@ -15,16 +15,16 @@ h1 {
       transform: rotate(90deg);
 }
 
-.eddy-box .img-top {
+/* .eddy-box .img-top {
         display: none;
         position: absolute;
         top: 0;
         left: 0;
-/*         z-index: 99; */
+        z-index: 99;
     }
 
 .eddy-box:hover .eddy-img-top {
         display: inline;
     }
 
- 
+  */
