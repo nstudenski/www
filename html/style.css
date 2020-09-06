@@ -2,12 +2,14 @@ h1 {
   color: Black;
 }
 
-img {
+/* img {
       max-width: 10%;
       height: auto;
-}
+} */
 
 .eddy {
+        width: 10px;
+        height: 10px;
         position: relative;
         display: inline-block;
     }
