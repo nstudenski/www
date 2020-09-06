@@ -9,20 +9,20 @@ h1 {
 
 .eddy {
         max-width: 10%;
-        height: auto;
+/*         height: auto; */
 /*         position: relative;
         display: inline-block; */
     }
-.eddy .img-top {
+/* .eddy .img-top {
         display: none;
-/*         position: absolute;
+        position: absolute;
         top: 0;
         left: 0;
-        z-index: 99; */
+        z-index: 99;
     }
 
 .eddy:hover .img-top {
         display: inline;
     }
 
- 
+  */
