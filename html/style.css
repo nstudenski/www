@@ -2,27 +2,30 @@ h1 {
   color: Black;
 }
 
-/* img {
-      max-width: 10%;
-      height: auto;
-} */
 
-.eddy {
-        max-width: 10%;
+
+.eddy-box {
+/*         max-width: 10%; */
 /*         height: auto; */
 /*         position: relative;
         display: inline-block; */
     }
-/* .eddy .img-top {
+
+eddy-img {
+      max-width: 10%;
+      height: auto;
+}
+
+.eddy .img-top {
         display: none;
-        position: absolute;
+/*         position: absolute;
         top: 0;
         left: 0;
-        z-index: 99;
+        z-index: 99; */
     }
 
-.eddy:hover .img-top {
+/* .eddy:hover .img-top {
         display: inline;
     }
-
-  */
+ */
+ 
