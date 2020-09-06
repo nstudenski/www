@@ -5,13 +5,13 @@ h1 {
 .eddy {
   max-width: 100%;
   height: auto;
-  background: "images/eddy1.jpg" no-repeat;
+  background: url("images/eddy1.jpg") no-repeat;
   display: inline-block;
 
 }
 
 .eddy:hover {
-  background: "images/eddy2.jpg" no-repeat;
+  background: url("images/eddy2.jpg") no-repeat;
 }
 
 
