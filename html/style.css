@@ -23,7 +23,7 @@ h1 {
         z-index: 99;
     }
 
-.eddy-box:hover .eddy-img-top {
+.eddy-box:hover .img-top {
         display: inline;
     }
 
