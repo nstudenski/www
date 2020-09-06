@@ -10,9 +10,9 @@ h1 {
     }
 
 .eddy-img {
-      max-width: 10%;
+      max-width: 40%;
       height: auto;
-      transform: rotate(180deg);
+      transform: rotate(90deg);
 }
 
 .eddy-box .eddy-img-top {
@@ -22,7 +22,7 @@ h1 {
         position: absolute;
         top: 0;
         left: 0;
-        transform: rotate(180deg);
+        transform: rotate(90deg);
 /*         z-index: 99; */
     }
 
